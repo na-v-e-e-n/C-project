@@ -1,2 +1,2 @@
-# C mini project
+# C project
 Bus reservation system
