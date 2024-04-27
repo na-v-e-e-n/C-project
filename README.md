@@ -1,2 +1,2 @@
 # C-project
-# Bus reservation system
+Bus reservation system
